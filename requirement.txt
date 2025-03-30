@@ -1,0 +1,10 @@
+streamlit
+crewai[tools]
+crewai
+python-dotenv
+langchain
+langchain_google_genai
+langchain_community
+crewai_tools
+duckduckgo-search
+google-generativeai
